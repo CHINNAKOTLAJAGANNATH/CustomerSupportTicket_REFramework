@@ -1,0 +1,6 @@
+.nuget/
+.packages/
+.local/
+Screenshots/
+*.tmp
+*.log
